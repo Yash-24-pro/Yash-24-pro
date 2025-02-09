@@ -37,26 +37,18 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=ffffff" alt="HTML Badge">  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=ffffff" alt="CSS Badge">
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-24-pro&theme=vision-friendly-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-24-pro&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=Yash-24-pro&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Yash-24-pro&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
+
 
 ## 📚 Current Projects
 - **Project 1**: Description of your current project focusing on ML.
@@ -73,12 +65,6 @@
 
 ---
 
-## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate or just chat!
-
-### 📫 Contact Me
-- Email: yashtripathi2400@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/yash-tripathi-42288b331
 
 ### ⚡ Fun Fact
 - I love to watch movies and chill with friends or go in a trip!
@@ -87,6 +73,16 @@ Feel free to reach out if you want to collaborate or just chat!
 - **Languages**: C++, Python
 - **Web Development**: HTML, CSS
 - **Version Control**: Git, GitHub
+  
+
+### 📫 Contact Me
+- Email: yashtripathi2400@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/yash-tripathi-42288b331
+- Instagram: https://instagram.com/YashTripathi](https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#)
+  
+  
+## 💬 Let's Connect!
+Feel free to reach out if you want to collaborate or just chat!
 
 
 
