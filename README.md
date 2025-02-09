@@ -23,7 +23,7 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/YashTripathi](https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#)">
+  <a href="https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/yash-tripathi-42288b331">
@@ -78,7 +78,7 @@
 ### 📫 Contact Me
 - Email: yashtripathi2400@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/yash-tripathi-42288b331
-- Instagram: https://instagram.com/YashTripathi](https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#)
+- Instagram: https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#
   
   
 ## 💬 Let's Connect!
