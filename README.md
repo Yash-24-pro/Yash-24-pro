@@ -23,7 +23,7 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/YashTripathi">
+  <a href="https://instagram.com/YashTripathi](https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#)">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/yash-tripathi-42288b331">
@@ -38,24 +38,22 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-</p>
+  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Er-Yash&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Er-Yash&theme=vision-friendly-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Yash&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-24-pro&theme=vision-friendly-dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=Er-Yash&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Yash-24-pro&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </p>
 
 ---
