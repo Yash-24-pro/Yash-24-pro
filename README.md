@@ -51,10 +51,9 @@
 
 
 ## 📚 Current Projects
-- **Project 1**: Description of your current project focusing on ML.
-- **Project 2**: Description of another project related to problem-solving.
-- **Project 3**: Brief overview of a collaborative project.
+- **Project 1**: Still Working on my 1st project
 
+  
 ---
 
 ## 🎯 Goals
