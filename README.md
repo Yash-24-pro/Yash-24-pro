@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Socials
-<p align="center">
+
   <a href="https://www.instagram.com/yash__tripathi__24/?igsh=dndydjN3bXU0M3du#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
@@ -38,11 +38,13 @@
 
 ## 💻 Tech Stack
 <p align="center">
+  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=ffffff" alt="HTML Badge">  <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=ffffff" alt="CSS Badge">
 
 # 📊 GitHub Stats:
 <p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yash-24-pro&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-24-pro&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
