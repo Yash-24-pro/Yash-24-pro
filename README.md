@@ -48,13 +48,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yash-24-pro&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# My GitHub Contribution Snake
 
-<!-- SVG Image -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yash-24-pro/Yash-24-pro/output/github-contribution-grid-snake.svg" />
-
-<!-- GIF Image -->
-![snake gif](https://github.com/Yash-24-pro/Yash-24-pro/blob/output/github-contribution-grid-snake.gif)
 
 ## 📚 Current Projects
 - **Project 1**: Description of your current project focusing on ML.
