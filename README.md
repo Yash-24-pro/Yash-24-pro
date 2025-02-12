@@ -34,7 +34,7 @@
   </a>
 </p>
 
----
+----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -58,7 +58,7 @@
 - **Project 1**: Still Working on my 1st project
 
   
----
+----
 
 ## 🎯 Goals
 - Deepen knowledge in **Machine Learning** and **AI**.
@@ -66,7 +66,7 @@
 - Develop a great command over frontend and backend web development.
 - Build a portfolio showcasing my skills and projects.
 
----
+----
 
 
 ### ⚡ Fun Fact
