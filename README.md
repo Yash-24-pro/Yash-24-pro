@@ -16,7 +16,7 @@
 
 🔭 Currently a student focusing on **Web Development** and **Problem Solving**.  
 👨‍🎓 Pursuing a **B.Tech** in **Computer Science**.  
-🌱 Actively learning **C++, Python, Web Development**, and **AI and ML**.  
+🌱 Actively learning **C++, Python, Web Development, Java** and **AI and ML**.  
 💬 Interests: **AI, Web Development**, and **Collaborative Projects**.  
 
 ---
